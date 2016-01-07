@@ -6,10 +6,18 @@
 
 Purpose is...
 
+## Table of Contents
+
+* General
+* Shift Based Work
+* Contractor Based Work
+
+## To Sort
 
 * [Smartsheet](http://smartsheet.com)
 * [WhenIWork](http://wheniwork.com)
-
+* [EventStaffApp](http://www.eventstaffapp.com/)
+* [QuickStaffPro](http://quickstaffpro.com/)
 
 #### License
 
