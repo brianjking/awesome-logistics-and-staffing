@@ -15,15 +15,24 @@ Purpose is...
 ## To Sort
 
 * [Smartsheet](http://smartsheet.com)
-* [WhenIWork](http://wheniwork.com)
-* [EventStaffApp](http://www.eventstaffapp.com/)
-* [QuickStaffPro](http://quickstaffpro.com/)
 * [RotaCloud](https://rotacloud.com/)
 * [ZoomShift](https://www.zoomshift.com/)
 * [ResourceGuru](http://resourceguruapp.com/)
-* [Jobber](https://getjobber.com/)
 * [Float](https://www.float.com/)
 * [Mystro](https://www.mystro.co/)
+
+## Events Based Staffing
+* [EventStaffApp](http://www.eventstaffapp.com/)
+* [QuickStaffPro](http://quickstaffpro.com/)
+
+
+## Shift Based Work
+* [WhenIWork](http://wheniwork.com)
+
+
+
+## Contractor Based Work
+* [Jobber](https://getjobber.com)
 
 
 #### License
