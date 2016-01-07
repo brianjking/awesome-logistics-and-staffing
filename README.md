@@ -9,8 +9,10 @@ Purpose is...
 ## Table of Contents
 
 * General
-* Shift Based Work
-* Contractor Based Work
+* [To Sort](#to-sort)
+* [Events Based Staffing](#events-based-staffing)
+* [Shift Based Work](#shift-based-work)
+* [Contractor Based Work](#contractor-based-work)
 
 ## To Sort
 
