@@ -23,6 +23,7 @@ Purpose is...
 * [ResourceGuru](http://resourceguruapp.com/)
 * [Float](https://www.float.com/)
 * [Mystro](https://www.mystro.co/)
+* [TixTime](https://www.tixtime.com/)
 
 ## Events Based Staffing
 * [EventStaffApp](http://www.eventstaffapp.com/)
